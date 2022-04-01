@@ -1,5 +1,10 @@
 # iOS-Portfolio-Singh22
 # Pranay Singh, aspiring coder
+## My Previous Experience
+
+## My Apps
+* My first app in this class was the Grocery List app, which I made to learn the basics of Swift and SwiftUI.
+* Currently working on a Tower Defense game
 ## GitHub
 * First time using GitHub, learned the functions and uses of it
 * I learned how to create a repository and what its uses are
