@@ -3,7 +3,7 @@
 ## My Previous Experience
 
 ## My Apps
-### Grocery List *https://github.com/PranaySingh04/GroceryList/tree/main*
+### [Grocery List] (https://github.com/PranaySingh04/GroceryList/tree/main)
 * My first app in this class was the Grocery List app, which I made to learn the basics of Swift and SwiftUI.
 ### Tower Defense Game
 * Currently working on a Tower Defense game
