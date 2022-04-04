@@ -3,9 +3,9 @@
 ## My Previous Experience
 
 ## My Apps
-# Grocery List
+### Grocery List https://github.com/PranaySingh04/GroceryList/tree/main
 * My first app in this class was the Grocery List app, which I made to learn the basics of Swift and SwiftUI.
-# Tower Defense Game
+### Tower Defense Game
 * Currently working on a Tower Defense game
 ## GitHub
 * First time using GitHub, learned the functions and uses of it
