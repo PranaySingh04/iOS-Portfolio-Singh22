@@ -20,7 +20,8 @@
 ## Sketch
 * Created an app icon for the first time, which could be used for a space game. 
 * Learned how use editing tools to make an icon look more appealing.
-![image](https://user-images.githubusercontent.com/98762826/161790929-ed6022af-5d5a-403f-a828-f384e64b8c14.png)
+### Some icons I have made
+* ![image](https://user-images.githubusercontent.com/98762826/161790929-ed6022af-5d5a-403f-a828-f384e64b8c14.png)
 
 ## Programming Experience
 * MIT App Inventor - Started in 2020
