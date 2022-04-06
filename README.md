@@ -7,7 +7,7 @@
 * My app was a fitness check app, the main function was to see if the user was healthy, and it would give health advice that was unique to each user. 
 * [Code for my app](https://docs.google.com/document/d/1p63aB9sUG9sxqUp9bvRLz0oVD8ch_GrwGw7GAGzH1io/edit?usp=sharing)
 * [Written summary of my app](https://docs.google.com/document/d/1fgVzvcrEFoP4Dtl84nQLB18BENNpiSHjT4IuV_bA6-w/edit?usp=sharing)
-## My Apps
+## Current Apps/Projects
 ### [Grocery List](https://github.com/PranaySingh04/GroceryList/tree/main)
 * My first app in this class was the Grocery List app, which I made to learn the basics of Swift and SwiftUI.
 * This app functions as a grocery list, letting you add items to it, and clear the list after you are done.
