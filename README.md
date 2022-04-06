@@ -23,7 +23,7 @@
 * Created an app icon for the first time, which could be used for a space game. 
 * Learned how use editing tools to make an icon look more appealing.
 ### Some icons I have made
-![image](https://user-images.githubusercontent.com/98762826/161790929-ed6022af-5d5a-403f-a828-f384e64b8c14.png) <img src="![image](https://user-images.githubusercontent.com/98762826/162009787-950fd002-6cc0-49b3-a6f2-0d77181392d5.png)" width="100" height="100">
+<img src="![image](https://user-images.githubusercontent.com/98762826/162010051-e3010f5d-54e4-4b6d-9a2a-7d2e12202970.png)" width="300" height="300">  <img src="![image](https://user-images.githubusercontent.com/98762826/162009787-950fd002-6cc0-49b3-a6f2-0d77181392d5.png)" width="300" height="300">
 
 
 ## Programming Experience
