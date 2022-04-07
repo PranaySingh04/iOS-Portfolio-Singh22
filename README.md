@@ -12,7 +12,7 @@
 * My first app in this class was the Grocery List app, which I made to learn the basics of Swift and SwiftUI.
 * This app functions as a grocery list, letting you add items to it, and clear the list after you are done.
 * If I was to continue working on this app, I would have a lot of things to add, like an improved ui, making your data persistent so that if you close out of the app, your list stays there when you reopen it, and the ability to have multiple lists at the same time.
-### Tower Defense Game
+### [Tower Defense Game](https://github.com/EPHS-iOS/Tower-Defense]
 * Currently working on a Tower Defense game along with a few people in 4th hour.
 
 ## GitHub
