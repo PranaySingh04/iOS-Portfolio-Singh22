@@ -32,7 +32,7 @@
 ### Some icons I have made
 <img src="https://user-images.githubusercontent.com/98762826/162010051-e3010f5d-54e4-4b6d-9a2a-7d2e12202970.png" width="300" height="300">  <img src="https://user-images.githubusercontent.com/98762826/162009787-950fd002-6cc0-49b3-a6f2-0d77181392d5.png" width="300" height="300">
 ## IOS App Development Course reflection
-* I decided to take the IOS App Development class at EPHS because I was interested in programming, but I didn't want to take an another AP class like AP Java. I thought that this app would mostly just be learning more about programming, but in this class I have experienced and learned so much more about the process of creating an app. I have learned about every step of getting an app into the app store, which is surprisingly long with lots of different components. I learned 
+* I decided to take the IOS App Development class at EPHS because I was interested in programming, but I didn't want to take an another AP class like AP Java. I thought that this app would mostly just be learning more about programming, but in this class I have experienced and learned so much more about the process of creating an app. I have learned about every step of getting an app into the app store, which is surprisingly long with lots of different components. I learned about creating GitHub repositories, creating app icons and app pages to effectively advertise apps. This was also the first time I have used Xcode, so I learned about boht the backend and front end of creating apps, working on both coding and ui design. '
 
 ## Programming Experience
 * MIT App Inventor - Started in 2020
