@@ -18,6 +18,8 @@
 * OpenVote is a campaign finance app that allows you to easily view the campaign spending of US politicians. The purpose of this app is to bring awareness to the campaign spending issue in America, and have an easy way to show people exactly how much money their representatives are spending.
 * I created the App Store page and App Store videos/animations for OpenVote using hotpot.io and Adobe Premiere Rush.
 * OpenVote has been accepted by the App Store on the first submission attempt!
+### [Post-It App](https://github.com/EPHS-iOS/Spring2022GroupProject)
+* This app is an app that was worked on by the entire IOS App Development class during 4th quarter. It is a game where you have to find various hidden pictures made out of post its and take pictures of them, to gain points and move up the global leaderboard. My contributions to this app were creating an app icon for it and doing beta testing for it.
 ## GitHub
 * This was my first time using GitHub, I learned the functions and uses of it.
 * I learned how to create a repository and what its uses are.
