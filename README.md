@@ -13,14 +13,16 @@
 * This app functions as a grocery list, letting you add items to it, and clear the list after you are done.
 * If I was to continue working on this app, I would have a lot of things to add, like an improved ui, making your data persistent so that if you close out of the app, your list stays there when you reopen it, and the ability to have multiple lists at the same time.
 ### [Tower Defense Game](https://github.com/EPHS-iOS/Tower-Defense)
-* Currently working on a Tower Defense game along with a few people in 4th hour.
+* This is an app that I was a part of early on, but eventually stopped working on it as I was spending more time working on other projects.
 ### [OpenVote](https://github.com/BillA-Dev/OpenVote)
-* Created App Store page and App Store videos/animations for OpenVote.
+* OpenVote is a campaign finance app that allows you to easily view the campaign spending of US politicians. The purpose of this app is to bring awareness to the campaign spending issue in America, and have an easy way to show people exactly how much money their representatives are spending.
+* I created the App Store page and App Store videos/animations for OpenVote using hotpot.io and Adobe Premiere Rush.
 * OpenVote has been accepted by the App Store on the first submission attempt!
 ## GitHub
-* First time using GitHub, learned the functions and uses of it
-* I learned how to create a repository and what its uses are
-* I learned how to push and pull files between GitHub and Xcode 
+* This was my first time using GitHub, I learned the functions and uses of it.
+* I learned how to create a repository and what its uses are.
+* I learned how to push and pull files between GitHub and Xcode.
+* I learned how to create quality READMEs, that are easy to read and navigate. 
 ## Swift/Xcode
 * This is my first time using Swift or Xcode, so I am still learning some of the basic funtions.
 * Learned basic swift syntax using CodeWithChris tutorials and created some beginner apps.
@@ -32,7 +34,7 @@
 ### Some icons I have made
 <img src="https://user-images.githubusercontent.com/98762826/162010051-e3010f5d-54e4-4b6d-9a2a-7d2e12202970.png" width="300" height="300">  <img src="https://user-images.githubusercontent.com/98762826/162009787-950fd002-6cc0-49b3-a6f2-0d77181392d5.png" width="300" height="300">
 ## IOS App Development Course reflection
-* I decided to take the IOS App Development class at EPHS because I was interested in programming, but I didn't want to take an another AP class like AP Java. I thought that this app would mostly just be learning more about programming, but in this class I have experienced and learned so much more about the process of creating an app. I have learned about every step of getting an app into the app store, which is surprisingly long with lots of different components. I learned about creating GitHub repositories, creating app icons and app pages to effectively advertise apps. This was also the first time I have used Xcode, so I learned about boht the backend and front end of creating apps, working on both coding and ui design. '
+* I decided to take the IOS App Development class at EPHS because I was interested in programming, but I didn't want to take an another AP class like AP Java. I thought that this app would mostly just be learning more about programming, but in this class I have experienced and learned so much more about the process of creating an app. I have learned about every step of getting an app into the app store, which is surprisingly long with lots of different components. I learned about creating GitHub repositories, creating app icons and app pages to effectively advertise apps. This was also the first time I have used Xcode, so I learned about boht the backend and front end of creating apps, working on both coding and ui design. Overall this was a great class to take and I learned a lot of very useful skills in the process of creating an app.
 
 ## Programming Experience
 * MIT App Inventor - Started in 2020
